@@ -93,3 +93,4 @@ printf '2\n0\n' | java -cp out Main
 | 5 | Atualizar dados (mantém o ID) |
 | 6 | Comprar (remove do estoque) |
 | 0 | Sair |
+Project updated.
