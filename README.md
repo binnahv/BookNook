@@ -1,6 +1,6 @@
-# Loja de Livros e Mangás
+# BookNook
 
-Aplicação de console em Java para gerenciar o estoque de uma loja que vende **livros** e **mangás**. O programa inicia com alguns produtos cadastrados e oferece um menu para incluir, listar, pesquisar, atualizar, remover e comprar itens.
+ Aplicação de console em Java para gerenciar o estoque de uma loja que vende **livros** e **mangás**. O programa inicia com alguns produtos cadastrados e oferece um menu para incluir, listar, pesquisar, atualizar, remover e comprar itens.
 
 ## Objetivo e finalidade
 
